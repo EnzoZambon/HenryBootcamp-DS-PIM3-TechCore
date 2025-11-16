@@ -20,6 +20,8 @@ Construcción del dashboard en Power BI: visualización de métricas estratégic
 
 El resultado final es una herramienta analítica robusta y escalable que convierte datos dispersos en conocimiento accionable, ofreciendo una visión clara del comportamiento de las ventas, los clientes y las tendencias del mercado.
 
+![Proceso ETL en Power Query](https://raw.githubusercontent.com/EnzoZambon/HenryBootcamp-DS-PIM3-TechCore/main/Avance_3/Dashboard_Home.jpg)
+
 🚀 Desarrollo del Proyecto
 Avance 1 – Carga y Transformación de Datos
 
@@ -38,6 +40,9 @@ Corrección y estandarización de clasificaciones.
 
 En total, se aplicaron 43 pasos de limpieza para asegurar un dataset consistente y estructurado.
 Finalmente, se exportó la tabla transformada como “VentasTransformed” para utilizarla en los siguientes avances.
+
+![Proceso ETL en Power Query](https://raw.githubusercontent.com/EnzoZambon/HenryBootcamp-DS-PIM3-TechCore/main/Avance_1/ETL_PowerQuery.jpg)
+
 
 Avance 2 – Diseño del Modelo Relacional
 
@@ -61,6 +66,8 @@ Posteriormente, todas las tablas fueron exportadas en un único archivo Excel (M
 
 El modelo relacional final sirve como base para la construcción del modelo en Power BI.
 
+![Proceso ETL en Power Query](https://raw.githubusercontent.com/EnzoZambon/HenryBootcamp-DS-PIM3-TechCore/main/Avance_2/Diseño_Modelo_Relacional.jpg)
+
 Avance 3 – Dashboard Interactivo
 
 La última etapa consistió en importar el archivo ModeloVentas.xlsx a Power BI y construir un dashboard profesional orientado a la toma de decisiones.
@@ -80,6 +87,8 @@ Ventas Año Anterior
 Variación % Anual
 
 El dashboard incluye una portada con el logo de la empresa y tres páginas con información estratégica sobre ventas, clientes, productos y zonas geográficas.
+
+![Proceso ETL en Power Query](https://raw.githubusercontent.com/EnzoZambon/HenryBootcamp-DS-PIM3-TechCore/main/Avance_3/Dashboard_KPIS.jpg)
 
 📊 Principales Hallazgos
 
@@ -108,6 +117,8 @@ Marcas más vendidas: Lenovo, HP, Dell y Apple.
 Clientes de 26 a 45 años concentran el 60% de las ventas.
 
 La proporción de compradores hombres es del 65%.
+
+![Proceso ETL en Power Query](https://raw.githubusercontent.com/EnzoZambon/HenryBootcamp-DS-PIM3-TechCore/main/Avance_3/Dashboard_Ventas.jpg)
 
 🧭 Recomendaciones Estratégicas
 
